@@ -1,4 +1,5 @@
 Simple Calculator App 😃
+
 This is a simple calculator app created using HTML and CSS. It allows you to perform basic mathematical operations like addition, subtraction, multiplication, and division.
 
 Features
